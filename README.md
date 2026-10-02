@@ -1,6 +1,3 @@
-# 5G-LDPC-Error-Correction
-Rapport d'étude sur les codes correcteurs d'erreurs (LDPC, codes linéaires) et l'architecture C-RAN pour les réseaux 5G.
-
 # L'utilisation des codes correcteurs d'erreurs appliqués au réseau 5G
 
 Ce projet présente une étude théorique et appliquée de l'intégration des codes correcteurs d'erreurs (*Forward Error Correction* -- FEC) dans les infrastructures de télécommunication mobile de nouvelle génération (5G), notamment au sein des architectures radio centralisées (**C-RAN**).
